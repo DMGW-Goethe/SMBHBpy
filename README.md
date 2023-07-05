@@ -6,11 +6,10 @@ The SMBHB-code is an extension of the IMRI-code by my colleague Niklas Becker. S
 
 
 #### Usage
-See examples.
+See "BasicExamples.ipynb".
 
 #### Install
 Clone the repository and run.
-
 
 #### License
 See LICENSE File.
