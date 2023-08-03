@@ -94,8 +94,6 @@ def h_n(n, sp, ev, dbg=False, acc=1e-13):
             The phase that is left to observe at a given time step
         A_n   : np.ndarray
             The amplitude of the waveform over time
-    TODO:
-        Check redshift, luminosity distance inclusion
     """
     s_i = np.sin(sp.inclination_angle); c_i = np.cos(sp.inclination_angle)
 
