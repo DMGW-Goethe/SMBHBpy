@@ -9,7 +9,7 @@ The SMBHBpy code is an extension of the IMRIpy code by my colleague Niklas Becke
 In order to calculate the orbital evolution of SMBH binaries, the code requires the corresponding equation for the energy and angular momentum loss for each effect through which the system loses energy (GW emission, DF). If the corresponding energy and angular momentum balance is then established, the coupled differential equations for the oribit parameters e and a can be solved numerically. In addition, the code works in geometrized units with $c=G=1$.
 
 ## Usage
-See "BasicExample-Plots-GitHub.ipynb".
+See "BasicExample-Plots.ipynb".
 
 ## Install
 Clone the repository and run.
