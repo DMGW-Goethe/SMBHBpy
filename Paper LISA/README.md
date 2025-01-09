@@ -12,4 +12,4 @@ See "Figures.ipynb".
 Clone the repository and run.
 
 #### License
-See LICENSE File.
+See LICENSE file.
