@@ -5,7 +5,7 @@ The SMBHB-code is an extension of the IMRI-code by Niklas Becker. See [this](htt
 
 
 
-#### Figures of the paper
+#### Main figures of the paper
 See "Figures.ipynb".
 
 #### Install
