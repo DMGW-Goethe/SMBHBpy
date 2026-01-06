@@ -4,6 +4,8 @@ This code allows the simulation of an inspiral of supermassive black holes (SMBH
 The SMBHB-code is an extension of the IMRI-code by Niklas Becker. See [this](https://github.com/DMGW-Goethe/imripy/tree/main).
 
 #### Associated publication
+"Forecasted Detection Limits on the (Dark) Matter Density in Supermassive Black Hole Binaries for LISA"
+
 Phys. Rev. D: https://link.aps.org/doi/10.1103/pbrj-vqwq
 
 arXiv: https://arxiv.org/abs/2501.13601
