@@ -5,6 +5,7 @@ The SMBHB-code is an extension of the IMRI-code by Niklas Becker. See [this](htt
 
 #### Associated publication
 Phys. Rev. D: https://link.aps.org/doi/10.1103/pbrj-vqwq
+
 arXiv: https://arxiv.org/abs/2501.13601
 
 #### Main figures of the paper
